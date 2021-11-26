@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
-main ()
+int main ()
 {
 int a,b,c;
 printf("Digite um número\n");
